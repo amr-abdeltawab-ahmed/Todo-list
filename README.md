@@ -15,7 +15,7 @@ Installation
 To run the To-Do List application, you'll need Python installed on your machine. The application requires no additional dependencies apart from the standard Tkinter library, which is included with Python.
 
 1- Clone the repository:
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/amr-abdeltawab-ahmed/Todo-list.git
 
 2- Navigate to the project directory:
 cd todo-app
